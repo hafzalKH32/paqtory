@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712666575124",
+    "project_id": "co-shopping-ce3cc",
+    "storage_bucket": "co-shopping-ce3cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712666575124:android:082acd1dfeea4e0a84d201",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmwR6_erO6rfFC93aYVZIQZ5B2l_B2Q2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
