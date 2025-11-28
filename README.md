@@ -123,3 +123,6 @@ MultiBlocProvider( providers: [
     - Start with `main.dart` to see the routes and providers.
     - Check out `ui/login/login_screen.dart` and `logic/login/login_bloc.dart` to understand the authentication flow.
     - Explore `ui/live/live_screen.dart` to see how the chat, product highlights, and cart are integrated.
+  
+## App Screenshots
+![image alt](https://github.com/hafzalKH32/paqtory/blob/master/screenshots.png?raw=true)
